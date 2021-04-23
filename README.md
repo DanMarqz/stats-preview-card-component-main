@@ -28,13 +28,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/375.png)
-![](./screenshot/1440.png)
+![](./screenshots/375.png)
+![](./screenshots/1440.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution on Front End Mentor](https://www.frontendmentor.io/solutions/stats-card-challenge-Q-b0bWx1P)
+- Live Site URL: [Live on vercel](https://stats-card-challenge-danmjs.vercel.app/)
 
 ## My process
 
